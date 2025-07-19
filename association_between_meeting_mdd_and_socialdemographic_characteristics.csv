@@ -1,0 +1,43 @@
+Variable,Labels,yes,yes_perc,no,no_perc,p_value
+Age of children in months,9-11,1,12.5,20,24.69,0.69
+,6-8,1,12.5,16,19.75,
+,12-23,6,75.0,45,55.56,
+Children’s gender,male,6,75.0,43,53.09,0.29
+,female,2,25.0,38,46.91,
+Child Vaccination status,partially_vaccinated,0,0.0,32,39.51,<0.01
+,not_vaccinated,2,25.0,2,2.47,
+,fully_vaccinated,6,75.0,47,58.02,
+Child place of birth,home,0,0.0,2,2.47,1.0
+,health_facility,8,100.0,79,97.53,
+Child days past since diarrhea,within_5_days_ago,1,100.0,12,44.44,1.0
+,within_15_day_ago,0,0.0,8,29.63,
+,within_10_days_ago,0,0.0,7,25.93,
+Child and older sibling difference,Two years & above,5,62.5,43,53.09,0.72
+,Less than two years,3,37.5,38,46.91,
+Child sick previous day,yes,3,37.5,19,23.46,0.4
+,no,5,62.5,62,76.54,
+Care givers’ age,>35,2,25.0,8,9.88,0.14
+,30-34,0,0.0,16,19.75,
+,25-29,3,37.5,24,29.63,
+,20-24,1,12.5,26,32.1,
+,18-19,2,25.0,7,8.64,
+Care giver education,secondary,3,37.5,39,48.15,0.14
+,primary,3,37.5,31,38.27,
+,none,2,25.0,3,3.7,
+,higher,0,0.0,8,9.88,
+Care giver physiological state,pregnant,0,0.0,3,3.75,0.12
+,none,0,0.0,14,17.5,
+,do_not_know_1,1,12.5,0,0.0,
+,breast_feeding,7,87.5,63,78.75,
+Taken iron tablets 7 days prior study,yes,2,25.0,13,16.05,0.62
+,no,6,75.0,68,83.95,
+Mother Vitamin A last three months,yes,2,25.0,18,22.22,1.0
+,no,6,75.0,63,77.78,
+Caregiver received antenatal care,yes,7,87.5,75,92.59,0.5
+,no,1,12.5,6,7.41,
+Caregiver farmer,yes,8,100.0,72,88.89,1.0
+,no,0,0.0,9,11.11,
+Caregiver other activities,other,1,12.5,32,39.51,0.25
+,household chores,7,87.5,49,60.49,
+Care giver mother crops,Other,5,62.5,21,25.93,0.04
+,Maize and groundnuts,3,37.5,60,74.07,

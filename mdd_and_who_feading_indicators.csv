@@ -1,0 +1,15 @@
+Variable,Labels,yes,yes_perc,no,no_perc,p_value
+Met Minimum Meal Frequency,yes,4,50.0,24,29.63,0.25
+,no,4,50.0,57,70.37,
+Met Minimum Acceptable Diet,yes,4,50.0,4,4.94,<0.01
+,no,4,50.0,77,95.06,
+Consumed micronutrients (iron),yes,3,37.5,6,7.41,0.03
+,no,5,62.5,75,92.59,
+Consumed cowpea meal,yes,3,37.5,28,34.57,1.0
+,no,5,62.5,53,65.43,
+Consumed Soybean meal,yes,3,37.5,28,34.57,1.0
+,no,5,62.5,53,65.43,
+Consumed ASF,yes,1,12.5,13,16.05,1.0
+,no,7,87.5,68,83.95,
+Infants 6-8 months received complementary foods,yes,1,100.0,5,31.25,0.35
+,no,0,0.0,11,68.75,

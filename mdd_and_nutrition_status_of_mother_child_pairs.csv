@@ -1,0 +1,18 @@
+Variable,Labels,yes,yes_perc,no,no_perc,p_value
+Child’s birthweight,Less than 2.5kg,0,0.0,5,6.17,1.0
+,2.5kg and above,8,100.0,76,93.83,
+Child Underweight,obese,0,0.0,1,1.23,1.0
+,normal,8,100.0,72,88.89,
+,moderate underweight,0,0.0,8,9.88,
+Child stunting,stunted,0,0.0,6,7.41,1.0
+,normal,7,87.5,65,80.25,
+,moderately stunted,1,12.5,10,12.35,
+Child Wasting,SAM,1,12.5,1,1.23,0.2
+,Overweight,0,0.0,1,1.23,
+,Obese,0,0.0,4,4.94,
+,Normal,6,75.0,72,88.89,
+,MAM,1,12.5,3,3.7,
+Child Oedema,yes,0,0.0,3,3.7,1.0
+,no,8,100.0,78,96.3,
+Caregiver height,Less than 145 cm,1,12.5,1,1.23,0.17
+,145 com and above,7,87.5,80,98.77,

@@ -1,6 +1,0 @@
-Variable,Labels,yes,yes_perc,no,no_perc,p_value
-Agechildcat2,12-23,6,75.0,45,55.56,0.69
-,6-8,1,12.5,16,19.75,
-,9-11,1,12.5,20,24.69,
-Childgender,female,2,25.0,38,46.91,0.29
-,male,6,75.0,43,53.09,
