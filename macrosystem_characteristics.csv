@@ -1,0 +1,11 @@
+Variable,Labels,yes,yes_perc,no,no_perc,p_value
+Social Protection offered to households,social_cash_transfer,0,0.0,5,6.17,0.61
+,school_feeding_programme,0,0.0,1,1.23,
+,none,6,75.0,66,81.48,
+,farmer_input_support_program,2,25.0,9,11.11,
+Households who sold the vouchers,yes,1,12.5,3,3.75,0.32
+,no,7,87.5,77,96.25,
+Social Protection for COVID 19,social_cash_transfer,0,0.0,5,6.17,0.59
+,school_feeding_programme,0,0.0,1,1.23,
+,none,6,75.0,66,81.48,
+,farmer_input_support_program,2,25.0,9,11.11,

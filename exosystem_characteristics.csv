@@ -1,0 +1,13 @@
+Variable,Labels,yes,yes_perc,no,no_perc,p_value
+Access to extension services,yes,0,0.0,9,11.11,1.0
+,no,8,100.0,72,88.89,
+Access to Irrigation water,yes,3,37.5,52,64.2,0.25
+,no,5,62.5,29,35.8,
+Food Price increase experience,yes,7,87.5,65,80.25,1.0
+,no,1,12.5,16,19.75,
+Agricultural inputs available,yes,2,25.0,38,46.91,0.29
+,no,6,75.0,43,53.09,
+Agricultural inputs prices high,yes,6,75.0,56,69.14,1.0
+,no,2,25.0,25,30.86,
+Input reserves available,yes,6,75.0,27,33.33,0.05
+,no,2,25.0,54,66.67,

@@ -1,0 +1,78 @@
+Variable,Labels,yes,yes_perc,no,no_perc,p_value
+Household head age category,75-79,0,0.0,2,2.47,0.89
+,70-74,0,0.0,1,1.23,
+,65-69,0,0.0,1,1.23,
+,60-64,0,0.0,1,1.23,
+,55-59,0,0.0,4,4.94,
+,50-54,0,0.0,2,2.47,
+,45-49,2,25.0,6,7.41,
+,40-44,1,12.5,10,12.35,
+,35-39,1,12.5,6,7.41,
+,30-34,1,12.5,19,23.46,
+,25-29,2,25.0,18,22.22,
+,20-24,1,12.5,10,12.35,
+,15-19,0,0.0,1,1.23,
+Household head gender,male,6,75.0,62,76.54,1.0
+,female,2,25.0,19,23.46,
+Household size category,>10,0,0.0,3,3.7,0.76
+,6-10,1,12.5,19,23.46,
+,1-5,7,87.5,59,72.84,
+Children U_2,4.0,1,12.5,1,1.23,0.18
+,3.0,0,0.0,2,2.47,
+,2.0,1,12.5,6,7.41,
+,1.0,6,75.0,72,88.89,
+Household regular income,yes,2,25.0,37,45.68,0.46
+,no,6,75.0,44,54.32,
+Household toilet type,Pit,8,100.0,77,95.06,1.0
+,Flush,0,0.0,4,4.94,
+Source of drinking water,not_improved,2,25.0,14,17.28,0.63
+,improved,6,75.0,67,82.72,
+Energy for cooking,firewood,7,87.5,47,58.02,0.57
+,charcoal & firewood,0,0.0,13,16.05,
+,charcoal & electricity,0,0.0,3,3.7,
+,charcoal,1,12.5,18,22.22,
+Floor type,mud,2,25.0,34,41.98,0.47
+,cement,6,75.0,47,58.02,
+Roof Type,other,0,0.0,1,1.23,1.0
+,iron_sheets,7,87.5,62,76.54,
+,grass,1,12.5,18,22.22,
+Grow cowpea n(%),yes,2,25.0,13,16.05,0.62
+,no,6,75.0,68,83.95,
+use_cow_pea in household,yes,3,37.5,43,53.09,0.48
+,no,5,62.5,38,46.91,
+How you use Cowpea,soup,1,33.33,6,30.0,0.34
+,other,0,0.0,1,5.0,
+,flour,0,0.0,8,40.0,
+,feed,1,33.33,1,5.0,
+,Porridge,1,33.33,4,20.0,
+Prepare Cowpea for children n(%),yes,3,37.5,28,34.57,1.0
+,no,5,62.5,53,65.43,
+Grow soybean n(%),yes,1,12.5,7,8.64,0.54
+,no,7,87.5,74,91.36,
+use_soybean in household n(%),yes,3,37.5,20,24.69,0.42
+,no,5,62.5,61,75.31,
+Prepare soybean for children,yes,3,37.5,28,34.57,1.0
+,no,5,62.5,53,65.43,
+Any_FMember_Covid_Positive,yes,0,0.0,10,12.35,0.59
+,no,8,100.0,71,87.65,
+Agricultural production increase,yes,1,12.5,19,23.46,0.68
+,no,7,87.5,62,76.54,
+Hired labour access,yes,0,0.0,11,13.58,0.59
+,no,8,100.0,70,86.42,
+Cash for inputs available,yes,0,0.0,25,30.86,0.1
+,no,8,100.0,56,69.14,
+Low input Agriculture,yes,4,50.0,44,54.32,1.0
+,no,4,50.0,37,45.68,
+Income increase,yes,2,25.0,11,13.58,0.33
+,no,6,75.0,70,86.42,
+Opted for alternative foods,yes,1,12.5,16,19.75,1.0
+,no,7,87.5,65,80.25,
+Imported food substitution,yes,2,25.0,10,12.35,0.29
+,no,6,75.0,71,87.65,
+Household assistance category,well_off,0,0.0,4,4.94,<0.01
+,very_poor,1,12.5,15,18.52,
+,poor,6,75.0,15,18.52,
+,medium,1,12.5,47,58.02,
+Basic needs not met,water,1,16.67,14,19.18,0.5
+,food water,2,33.33,12,16.44,
+,food,3,50.0,47,64.38,

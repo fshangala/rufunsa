@@ -1,5 +1,5 @@
 Variable,Labels,yes,yes_perc,no,no_perc,p_value
-Age of children in months,9-11,1,12.5,20,24.69,0.69
+Age of children in months,9-11,1,12.5,20,24.69,0.68
 ,6-8,1,12.5,16,19.75,
 ,12-23,6,75.0,45,55.56,
 Children’s gender,male,6,75.0,43,53.09,0.29
@@ -16,16 +16,16 @@ Child and older sibling difference,Two years & above,5,62.5,43,53.09,0.72
 ,Less than two years,3,37.5,38,46.91,
 Child sick previous day,yes,3,37.5,19,23.46,0.4
 ,no,5,62.5,62,76.54,
-Care givers’ age,>35,2,25.0,8,9.88,0.14
+Care givers’ age,>35,2,25.0,8,9.88,0.15
 ,30-34,0,0.0,16,19.75,
 ,25-29,3,37.5,24,29.63,
 ,20-24,1,12.5,26,32.1,
 ,18-19,2,25.0,7,8.64,
-Care giver education,secondary,3,37.5,39,48.15,0.14
+Care giver education,secondary,3,37.5,39,48.15,0.13
 ,primary,3,37.5,31,38.27,
 ,none,2,25.0,3,3.7,
 ,higher,0,0.0,8,9.88,
-Care giver physiological state,pregnant,0,0.0,3,3.75,0.12
+Care giver physiological state,pregnant,0,0.0,3,3.75,0.11
 ,none,0,0.0,14,17.5,
 ,do_not_know_1,1,12.5,0,0.0,
 ,breast_feeding,7,87.5,63,78.75,
